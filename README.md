@@ -1,5 +1,5 @@
 # clockwidget
-Android Analog Clock and Widget
+COLOR clock - This is  fun App color of the clock changes several tilmes in a minute. 
 ![SCREEN][1]
 
  License
